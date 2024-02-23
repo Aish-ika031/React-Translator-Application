@@ -1,0 +1,1 @@
+Translator is a web application software tool that facilitate the translation of text from one language to another language using ReactJS. This application allows users to give input Text and select input and output language Format from the list of languages 
